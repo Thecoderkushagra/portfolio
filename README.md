@@ -2,7 +2,7 @@
 
 Personal portfolio site built with vanilla HTML & CSS, hosted on GitHub Pages.
 
-🔗 **[Live Site](https://thecoderkushagra.github.io)**
+🔗 **[Live Site](https://thecoderkushagra.github.io/portfolio/)**
 
 ---
 
@@ -22,16 +22,6 @@ A minimal, fast, single-page portfolio showcasing my projects, skills, and conta
 |---|---|---|
 | **Aurora Stream** | Java, Spring Boot, MongoDB, PostgreSQL, React, HLS, FFMPEG | Microservice-based video streaming platform |
 | **Sentinel** | Java, Spring Boot, Spring Security | Request filtering & bot detection system |
-
-## Run Locally
-
-No build step needed — just open the file:
-
-```bash
-git clone https://github.com/Thecoderkushagra/your-repo-name.git
-cd your-repo-name
-open index.html
-```
 
 ## Contact
 
